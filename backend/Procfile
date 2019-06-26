@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT janas_first_app_5227.wsgi:application
